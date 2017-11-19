@@ -1,7 +1,6 @@
 {
     "name": "sanjib/timezones",
     "description": "A laravel package for timezones.",
-    "type": "metapackage",
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +8,7 @@
             "email": "the.sanjib1@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": "^7.0"
+    }
 }
