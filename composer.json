@@ -1,0 +1,14 @@
+{
+    "name": "sanjib/timezones",
+    "description": "A laravel package for timezones.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sanjib Kumar Saha",
+            "email": "the.sanjib1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
